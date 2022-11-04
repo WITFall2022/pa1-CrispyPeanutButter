@@ -2,7 +2,7 @@ package edu.wit.cs.comp1000;
 
 import java.util.Scanner;
 
-// TODO: document this class
+// TODO: PA1 
 public class PA1a {
 
 	// TODO: document this function
